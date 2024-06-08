@@ -67,3 +67,23 @@ The key's randomart image is:
 | . =.O.o         |
 |  . B.oo.        |
 +----[SHA256]-----+
+
+
+cat ~/.ssh/ssh_host_ecdsa_key.pub
+
+
+
+/data/data/com.termux/files/home/downloads/
+
+
+手机termux所在文件夹目录
+/storage/shared/笔记
+
+
+git remote add origin https://github.com/Dolores18/obsidia.git
+
+git push -u obsidia.git main
+
+
+
+
