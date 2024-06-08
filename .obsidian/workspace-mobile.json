@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/日期2.md",
+                "file": "编程/termux/远程控制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/日期2.md",
+            "file": "编程/termux/远程控制.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/日期2.md",
+            "file": "编程/termux/远程控制.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -350,7 +350,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/日期2.md"
+            "file": "编程/termux/远程控制.md"
           }
         }
       },
@@ -376,7 +376,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "Templates/日期2.md"
+            "file": "编程/termux/远程控制.md"
           }
         }
       }
@@ -400,8 +400,8 @@
   },
   "active": "d6247122313f7fcc",
   "lastOpenFiles": [
-    "Templates/每日一言.md",
     "Templates/日期2.md",
+    "Templates/每日一言.md",
     "Templates/高德天气.md",
     "日记/2024-06-06.md",
     "日记/2024-06-07.md",
