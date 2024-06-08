@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-08.md",
+                "file": "日记/2024-06-09.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2024-06-08.md",
+            "file": "日记/2024-06-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2024-06-08.md",
+            "file": "日记/2024-06-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -350,7 +350,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2024-06-08.md"
+            "file": "日记/2024-06-09.md"
           }
         }
       },
@@ -376,7 +376,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "日记/2024-06-08.md"
+            "file": "日记/2024-06-09.md"
           }
         }
       }
@@ -400,10 +400,12 @@
   },
   "active": "d6247122313f7fcc",
   "lastOpenFiles": [
+    "日记/2024-06-08.md",
+    "编程/termux/远程控制.md",
+    "编程/termux",
     "编程/git.md",
     "编程/test.md",
     "编程/git/git使用.md",
-    "日记/2024-06-08.md",
     "编程/git",
     "movies/movie db.md",
     "编程/javascript/资源.md",
@@ -429,13 +431,11 @@
     "learnDataview/笔记数可视化.md",
     "Templates/book.md",
     "learnDataview/获取天气.md",
-    "learnTemplater/learnStart.md",
     "learnTemplater",
     "quick-scripts",
     "learnDataview",
     "未命名 1",
     "quick-scripts/movies.js",
-    "movies",
     "那就好.canvas"
   ]
 }
