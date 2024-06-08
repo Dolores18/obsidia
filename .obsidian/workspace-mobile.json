@@ -235,8 +235,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/git/git使用.md",
-                "mode": "preview",
+                "file": "编程/git.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "编程/git/git使用.md",
+            "file": "编程/git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "编程/git/git使用.md",
+            "file": "编程/git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -350,7 +350,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "编程/git/git使用.md"
+            "file": "编程/git.md"
           }
         }
       },
@@ -376,7 +376,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "编程/git/git使用.md"
+            "file": "编程/git.md"
           }
         }
       }
@@ -400,11 +400,11 @@
   },
   "active": "d6247122313f7fcc",
   "lastOpenFiles": [
-    "编程/test.md",
     "编程/git/git使用.md",
-    "编程/git",
     "编程/git.md",
     "日记/2024-06-08.md",
+    "编程/test.md",
+    "编程/git",
     "movies/movie db.md",
     "编程/javascript/资源.md",
     "编程/javascript",
