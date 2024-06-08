@@ -235,8 +235,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-09.md",
-                "mode": "preview",
+                "file": "Templates/日期2.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -321,7 +321,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2024-06-09.md",
+            "file": "Templates/日期2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2024-06-09.md",
+            "file": "Templates/日期2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -350,7 +350,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2024-06-09.md"
+            "file": "Templates/日期2.md"
           }
         }
       },
@@ -376,7 +376,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "日记/2024-06-09.md"
+            "file": "Templates/日期2.md"
           }
         }
       }
@@ -400,6 +400,14 @@
   },
   "active": "d6247122313f7fcc",
   "lastOpenFiles": [
+    "Templates/每日一言.md",
+    "Templates/日期2.md",
+    "Templates/高德天气.md",
+    "日记/2024-06-06.md",
+    "日记/2024-06-07.md",
+    "Templates/历史上的今天.md",
+    "Templates/天气.md",
+    "日记/2024-06-09.md",
     "日记/2024-06-08.md",
     "编程/termux/远程控制.md",
     "编程/termux",
@@ -412,25 +420,17 @@
     "编程/javascript",
     "编程/python",
     "编程",
-    "日记/2024-06-07.md",
     "日记/2024-06-02.md",
     "日记/2024-06-03.md",
     "().md",
-    "日记/2024-06-06.md",
-    "Templates/天气.md",
     "Templates/test.md",
     "Templates/weather.md",
     "Templates/weater.md",
-    "Templates/高德天气.md",
     "books/test.md",
     "books/01书架.md",
     "books/海边的卡夫卡-村上春树.md",
-    "Templates/每日一言.md",
     "日记/2024-06-05.md",
     "learnDataview/dataview学习.md",
-    "learnDataview/笔记数可视化.md",
-    "Templates/book.md",
-    "learnDataview/获取天气.md",
     "learnTemplater",
     "quick-scripts",
     "learnDataview",
