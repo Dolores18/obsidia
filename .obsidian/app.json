@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "autoConvertHtml": true,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "preview",
+  "trashOption": "local"
+}
