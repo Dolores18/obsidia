@@ -249,7 +249,7 @@
               "type": "markdown",
               "state": {
                 "file": "编程/git/定时功能的实现.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -412,13 +412,14 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
-    "编程/git/一些同步的操作.md",
+    "编程/git/git使用.md",
+    "编程/git.md",
     "编程/git/定时功能的实现.md",
+    "编程/git/一些同步的操作.md",
     "日记/2024-06-09.md",
     "中文教程.md",
     "books/未命名.md",
     "ob技能/同步.md",
-    "编程/git.md",
     "ob技能",
     "Templates/JavaScriptTemplate.md",
     "Untitled.md",
@@ -447,7 +448,6 @@
     "日记/2024-06-06.md",
     "日记/2024-06-07.md",
     "Templates/历史上的今天.md",
-    "Templates/天气.md",
     "那就好.canvas"
   ]
 }
