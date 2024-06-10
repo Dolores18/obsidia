@@ -249,8 +249,8 @@
               "type": "markdown",
               "state": {
                 "file": "编程/git/定时功能的实现.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -412,9 +412,10 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
-    "编程/git/一些同步的操作.md",
     "日记/2024-06-11.md",
+    "日记/账单.loom",
     "编程/git/定时功能的实现.md",
+    "编程/git/一些同步的操作.md",
     "编程/git/git使用.md",
     "日记/2024-06-10.md",
     "01看板/今日修改笔记.md",
@@ -446,8 +447,6 @@
     "编程/国外vps/推荐.md",
     "编程/国外vps/交流平台.md",
     "编程/国外vps",
-    "日记/账单.loom",
-    "日记/2024-06-08.md",
     "那就好.canvas"
   ]
 }
