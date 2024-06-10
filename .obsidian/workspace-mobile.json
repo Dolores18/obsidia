@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/定时功能的实现.md",
                 "mode": "preview",
                 "source": true
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2024-06-10.md",
+            "file": "编程/git/定时功能的实现.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2024-06-10.md",
+            "file": "编程/git/定时功能的实现.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2024-06-10.md"
+            "file": "编程/git/定时功能的实现.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "日记/2024-06-10.md"
+            "file": "编程/git/定时功能的实现.md"
           }
         }
       }
@@ -412,13 +412,14 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "编程/git/一些同步的操作.md",
     "编程/git/定时功能的实现.md",
+    "日记/2024-06-10.md",
+    "conflict-files-obsidian-git.md",
     "编程/国外vps/推荐.md",
     "编程/国外vps/交流平台.md",
-    "日记/2024-06-10.md",
     "编程/国外vps",
     "编程/termux/入门.md",
-    "编程/git/一些同步的操作.md",
     "日记/2024-06-09.md",
     "编程/termux/常用操作.md",
     "编程/git/git使用.md",
@@ -447,7 +448,6 @@
     "node_modules/node-domexception/README.md",
     "node_modules/formdata-polyfill/README.md",
     "node_modules/fetch-blob/README.md",
-    "node_modules/data-uri-to-buffer/README.md",
     "那就好.canvas"
   ]
 }
