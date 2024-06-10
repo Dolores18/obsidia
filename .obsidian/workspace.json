@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/git/定时功能的实现.md",
+                "file": "日记/2024-06-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/git/定时功能的实现.md",
+                "file": "日记/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/git/定时功能的实现.md",
+                "file": "日记/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/git/定时功能的实现.md"
+                "file": "日记/2024-06-10.md"
               }
             }
           },
@@ -191,43 +191,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d16ada92fa1e8337",
+  "active": "400e1eac250837fd",
   "lastOpenFiles": [
-    "sync_log.txt",
-    "编程/git/一些同步的操作.md",
-    "编程/git/git使用.md",
-    "编程/git/定时功能的实现.md",
-    "日记/2024-06-10.md",
-    "编程/资源库/时效性要求强的数据.md",
-    "编程/termux/入门.md",
-    "日记/2024-06-09.md",
-    "books/test.md",
-    "books/未命名.md",
-    "conflict-files-obsidian-git.md",
-    "新建文本文档.txt",
-    "新建文件夹",
-    "编程/termux/常用操作.md",
-    "编程/git.md",
-    "编程/国外vps/交流平台.md",
+    "ob技能/插件/tasks插件的使用.md",
+    "ob技能/插件",
     "编程/国外vps/推荐.md",
+    "编程/国外vps/交流平台.md",
     "编程/国外vps",
-    "movies/movie db.md",
-    "learnTemplater/templater学习.md",
-    "learnTemplater/learnStart.md",
-    "learnDataview/获取天气.md",
-    "books/金阁寺.md",
-    "package.json",
-    "package-lock.json",
+    "ob技能/同步.md",
+    "ob技能",
+    "编程/资源库/时效性要求强的数据.md",
+    "编程/资源库",
     "node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts",
-    "node_modules/web-streams-polyfill/dist/types/ponyfill.d.ts",
     "node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts",
+    "node_modules/web-streams-polyfill/dist/types/tsdoc-metadata.json",
+    "node_modules/web-streams-polyfill/ponyfill/es6/package.json",
     "node_modules/web-streams-polyfill/dist/types/ts3.6",
-    "node_modules/web-streams-polyfill/dist/types/polyfill.d.ts",
+    "node_modules/web-streams-polyfill/dist/types/ponyfill.d.ts",
     "node_modules/web-streams-polyfill/README.md",
     "node_modules/node-fetch/README.md",
     "node_modules/node-fetch/LICENSE.md",
     "node_modules/node-domexception/README.md",
-    "books/海边的卡夫卡-村上春树.md",
-    "books/01书架.md"
+    "node_modules/formdata-polyfill/README.md",
+    "node_modules/fetch-blob/README.md",
+    "node_modules/data-uri-to-buffer/README.md",
+    "books/未命名.md",
+    "Untitled.md",
+    "Templates/JavaScriptTemplate.md",
+    "日记/2024-06-10.md",
+    "日记/2024-06-06.md",
+    "编程/test.md",
+    "编程/git/git使用.md",
+    "编程/git.md",
+    "日记/2024-06-09.md",
+    "movies/Titanic.md",
+    "movies/Still Walking.md",
+    "movies/movie template.md",
+    "movies/movie db.md",
+    "learnTemplater/templater学习.md"
   ]
 }
