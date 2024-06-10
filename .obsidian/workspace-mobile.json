@@ -248,8 +248,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/01书架.md",
-                "mode": "preview",
+                "file": "日记/2024-06-10.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "books/01书架.md",
+            "file": "日记/2024-06-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "books/01书架.md",
+            "file": "日记/2024-06-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "books/01书架.md"
+            "file": "日记/2024-06-10.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "books/01书架.md"
+            "file": "日记/2024-06-10.md"
           }
         }
       }
@@ -412,6 +412,7 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "books/01书架.md",
     "日记/2024-06-10.md",
     "编程/git/定时功能的实现.md",
     "日记/2024-06-10.md.bak",
