@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "promptDelete": true,
+=======
   "promptDelete": false,
+>>>>>>> a9a53ee (hello)
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
   "autoConvertHtml": true,
