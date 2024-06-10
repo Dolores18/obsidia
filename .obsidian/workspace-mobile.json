@@ -249,7 +249,7 @@
               "type": "markdown",
               "state": {
                 "file": "编程/git/定时功能的实现.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -412,9 +412,13 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "编程/国外vps/推荐.md",
+    "编程/国外vps/交流平台.md",
+    "编程/git/定时功能的实现.md",
+    "日记/2024-06-10.md",
+    "编程/国外vps",
     "编程/termux/入门.md",
     "编程/git/一些同步的操作.md",
-    "编程/git/定时功能的实现.md",
     "日记/2024-06-09.md",
     "编程/termux/常用操作.md",
     "编程/git/git使用.md",
@@ -437,7 +441,6 @@
     "node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts",
     "node_modules/web-streams-polyfill/ponyfill/es6/package.json",
     "node_modules/web-streams-polyfill/ponyfill/es2018/package.json",
-    "node_modules/web-streams-polyfill/dist/types/tsdoc-metadata.json",
     "node_modules/web-streams-polyfill/README.md",
     "node_modules/node-fetch/README.md",
     "node_modules/node-fetch/LICENSE.md",
@@ -445,9 +448,6 @@
     "node_modules/formdata-polyfill/README.md",
     "node_modules/fetch-blob/README.md",
     "node_modules/data-uri-to-buffer/README.md",
-    "Templates/日期2.md",
-    "Templates/每日一言.md",
-    "Templates/高德天气.md",
     "那就好.canvas"
   ]
 }
