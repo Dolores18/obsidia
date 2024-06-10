@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d16ada92fa1e8337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-06-10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e288c7ce254933b",
@@ -179,11 +191,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c18dc37a0871c0d",
+  "active": "d16ada92fa1e8337",
   "lastOpenFiles": [
+    "books/test.md",
+    "books/未命名.md",
+    "conflict-files-obsidian-git.md",
+    "日记/2024-06-10.md",
     "编程/git/一些同步的操作.md",
     "编程/git/定时功能的实现.md",
-    "日记/2024-06-10.md",
     "新建文本文档.txt",
     "新建文件夹",
     "编程/git/git使用.md",
