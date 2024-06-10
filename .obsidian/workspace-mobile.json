@@ -248,8 +248,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-11.md",
-                "mode": "preview",
+                "file": "01看板/这周笔记.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "日记/2024-06-11.md",
+            "file": "01看板/这周笔记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "日记/2024-06-11.md",
+            "file": "01看板/这周笔记.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "日记/2024-06-11.md"
+            "file": "01看板/这周笔记.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "日记/2024-06-11.md"
+            "file": "01看板/这周笔记.md"
           }
         }
       }
@@ -412,12 +412,12 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
-    "learnDataview/Dataview函数集合.md",
-    "01看板/这周笔记.md",
-    "编程/git/定时功能的实现.md",
-    "日记/2024-06-11.md",
-    "node_modules/未命名.md",
     "01看板/今日修改笔记.md",
+    "01看板/这周笔记.md",
+    "日记/2024-06-11.md",
+    "learnDataview/Dataview函数集合.md",
+    "编程/git/定时功能的实现.md",
+    "node_modules/未命名.md",
     "01看板/今日笔记.md",
     "日记/账单.loom",
     "编程/git/一些同步的操作.md",
