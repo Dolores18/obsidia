@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/一些同步的操作.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/一些同步的操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/一些同步的操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-06-10.md"
+                "file": "编程/git/一些同步的操作.md"
               }
             }
           },
@@ -181,10 +181,19 @@
   },
   "active": "5c18dc37a0871c0d",
   "lastOpenFiles": [
-    "日记/2024-06-09.md",
+    "编程/git/定时功能的实现.md",
     "日记/2024-06-10.md",
+    "新建文本文档.txt",
+    "新建文件夹",
     "编程/git/一些同步的操作.md",
+    "编程/git/git使用.md",
+    "编程/termux/入门.md",
+    "编程/termux/常用操作.md",
     "编程/git.md",
+    "日记/2024-06-09.md",
+    "编程/国外vps/交流平台.md",
+    "编程/国外vps/推荐.md",
+    "编程/国外vps",
     "movies/movie db.md",
     "learnTemplater/templater学习.md",
     "learnTemplater/learnStart.md",
@@ -197,9 +206,6 @@
     "node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts",
     "node_modules/web-streams-polyfill/dist/types/ts3.6",
     "node_modules/web-streams-polyfill/dist/types/polyfill.d.ts",
-    "node_modules/web-streams-polyfill/dist/ponyfill.mjs",
-    "node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs",
-    "node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs",
     "node_modules/web-streams-polyfill/README.md",
     "node_modules/node-fetch/README.md",
     "node_modules/node-fetch/LICENSE.md",
