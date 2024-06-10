@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/git/定时功能的实现.md",
+                "file": "日记/2024-06-10.md",
                 "mode": "preview",
                 "source": true
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "编程/git/定时功能的实现.md",
+            "file": "日记/2024-06-10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "编程/git/定时功能的实现.md",
+            "file": "日记/2024-06-10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "编程/git/定时功能的实现.md"
+            "file": "日记/2024-06-10.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "编程/git/定时功能的实现.md"
+            "file": "日记/2024-06-10.md"
           }
         }
       }
@@ -412,16 +412,19 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "日记/2024-06-09.md",
+    "编程/git/定时功能的实现.md",
+    "ob技能/插件/tasks插件的使用.md",
+    "ob技能/插件",
+    "sync_log.txt",
     "编程/git/一些同步的操作.md",
     "编程/termux/远程控制.md",
-    "编程/git/定时功能的实现.md",
     "日记/2024-06-10.md",
     "conflict-files-obsidian-git.md",
     "编程/国外vps/推荐.md",
     "编程/国外vps/交流平台.md",
     "编程/国外vps",
     "编程/termux/入门.md",
-    "日记/2024-06-09.md",
     "编程/termux/常用操作.md",
     "编程/git/git使用.md",
     "日记/账单.loom",
@@ -440,14 +443,11 @@
     "package-lock.json",
     "node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts",
     "node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts",
-    "node_modules/web-streams-polyfill/ponyfill/es6/package.json",
-    "node_modules/web-streams-polyfill/ponyfill/es2018/package.json",
     "node_modules/web-streams-polyfill/README.md",
     "node_modules/node-fetch/README.md",
     "node_modules/node-fetch/LICENSE.md",
     "node_modules/node-domexception/README.md",
     "node_modules/formdata-polyfill/README.md",
-    "node_modules/fetch-blob/README.md",
     "那就好.canvas"
   ]
 }
