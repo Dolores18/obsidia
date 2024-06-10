@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01看板/这周笔记.md",
+                "file": "ob技能/插件/检测文件系统变化.md",
                 "mode": "source",
                 "source": false
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01看板/这周笔记.md",
+            "file": "ob技能/插件/检测文件系统变化.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01看板/这周笔记.md",
+            "file": "ob技能/插件/检测文件系统变化.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01看板/这周笔记.md"
+            "file": "ob技能/插件/检测文件系统变化.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "01看板/这周笔记.md"
+            "file": "ob技能/插件/检测文件系统变化.md"
           }
         }
       }
@@ -412,9 +412,10 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "编程/资源库/时效性要求强的数据.md",
+    "日记/2024-06-11.md",
     "01看板/今日修改笔记.md",
     "01看板/这周笔记.md",
-    "日记/2024-06-11.md",
     "learnDataview/Dataview函数集合.md",
     "编程/git/定时功能的实现.md",
     "node_modules/未命名.md",
@@ -446,7 +447,6 @@
     "ob技能/插件/tasks插件的使用.md",
     "ob技能/插件",
     "sync_log.txt",
-    "conflict-files-obsidian-git.md",
     "编程/国外vps",
     "那就好.canvas"
   ]
