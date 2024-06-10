@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ob技能/同步.md",
+                "file": "日记/2024-06-11.md",
                 "mode": "source",
                 "source": true
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ob技能/同步.md",
+            "file": "日记/2024-06-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ob技能/同步.md",
+            "file": "日记/2024-06-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ob技能/同步.md"
+            "file": "日记/2024-06-11.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "ob技能/同步.md"
+            "file": "日记/2024-06-11.md"
           }
         }
       }
@@ -412,6 +412,7 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
+    "ob技能/同步.md",
     "ob技能/插件/检测文件系统变化.md",
     "ob技能/插件/templater/教程.md",
     "编程/资源库/时效性要求强的数据.md",
@@ -435,7 +436,6 @@
     "ob技能/插件/templater",
     "ob技能/templater",
     "ob技能/未命名.md",
-    "ob技能/同步.md",
     "编程/git/git原理.md",
     "books/01书架.md",
     "日记/2024-06-10.md.bak",
