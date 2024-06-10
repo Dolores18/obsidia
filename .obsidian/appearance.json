@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Consolas",
   "enabledCssSnippets": []
 }

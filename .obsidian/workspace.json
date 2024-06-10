@@ -191,8 +191,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "400e1eac250837fd",
+  "active": "d16ada92fa1e8337",
   "lastOpenFiles": [
+    "日记/2024-06-09.md",
+    "movies/movie db.md",
+    "日记/2024-06-05.md",
+    "编程/git/一些同步的操作.md",
+    "编程/git/定时功能的实现.md",
+    "日记/2024-06-10.md",
+    "conflict-files-obsidian-git.md",
+    "日记/2024-06-04.md",
     "ob技能/插件/tasks插件的使用.md",
     "ob技能/插件",
     "编程/国外vps/推荐.md",
@@ -218,16 +226,8 @@
     "books/未命名.md",
     "Untitled.md",
     "Templates/JavaScriptTemplate.md",
-    "日记/2024-06-10.md",
     "日记/2024-06-06.md",
     "编程/test.md",
-    "编程/git/git使用.md",
-    "编程/git.md",
-    "日记/2024-06-09.md",
-    "movies/Titanic.md",
-    "movies/Still Walking.md",
-    "movies/movie template.md",
-    "movies/movie db.md",
-    "learnTemplater/templater学习.md"
+    "编程/git/git使用.md"
   ]
 }
