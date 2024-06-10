@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "baseFontSize": 23,
-  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
   "theme": "obsidian",
   "interfaceFontFamily": "Consolas",
   "enabledCssSnippets": []

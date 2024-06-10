@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-10.md",
-                "mode": "preview",
+                "file": "编程/git/一些同步的操作.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/一些同步的操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-06-10.md",
+                "file": "编程/git/一些同步的操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-06-10.md"
+                "file": "编程/git/一些同步的操作.md"
               }
             }
           },
@@ -193,19 +193,20 @@
   },
   "active": "d16ada92fa1e8337",
   "lastOpenFiles": [
+    "编程/git/git使用.md",
+    "编程/git/定时功能的实现.md",
+    "编程/git/一些同步的操作.md",
+    "日记/2024-06-10.md",
+    "编程/资源库/时效性要求强的数据.md",
+    "编程/termux/入门.md",
+    "日记/2024-06-09.md",
     "books/test.md",
     "books/未命名.md",
     "conflict-files-obsidian-git.md",
-    "日记/2024-06-10.md",
-    "编程/git/一些同步的操作.md",
-    "编程/git/定时功能的实现.md",
     "新建文本文档.txt",
     "新建文件夹",
-    "编程/git/git使用.md",
-    "编程/termux/入门.md",
     "编程/termux/常用操作.md",
     "编程/git.md",
-    "日记/2024-06-09.md",
     "编程/国外vps/交流平台.md",
     "编程/国外vps/推荐.md",
     "编程/国外vps",
