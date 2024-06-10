@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-06-09.md",
+                "file": "日记/2024-06-10.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-06-09.md",
+                "file": "日记/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-06-09.md",
+                "file": "日记/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-06-09.md"
+                "file": "日记/2024-06-10.md"
               }
             }
           },
@@ -181,8 +181,11 @@
   },
   "active": "5c18dc37a0871c0d",
   "lastOpenFiles": [
-    "日记/2024-06-10.md",
     "日记/2024-06-09.md",
+    "编程/国外vps/交流平台.md",
+    "编程/国外vps/推荐.md",
+    "编程/国外vps",
+    "日记/2024-06-10.md",
     "编程/git/一些同步的操作.md",
     "编程/git.md",
     "movies/movie db.md",
@@ -199,7 +202,6 @@
     "node_modules/web-streams-polyfill/dist/types/polyfill.d.ts",
     "node_modules/web-streams-polyfill/dist/ponyfill.mjs",
     "node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs",
-    "node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs",
     "node_modules/web-streams-polyfill/README.md",
     "node_modules/node-fetch/README.md",
     "node_modules/node-fetch/LICENSE.md",
