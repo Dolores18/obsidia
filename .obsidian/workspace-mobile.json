@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/git/rebase.md",
+                "file": "编程/国外vps/推荐.md",
                 "mode": "preview",
                 "source": true
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "编程/git/rebase.md",
+            "file": "编程/国外vps/推荐.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "编程/git/rebase.md",
+            "file": "编程/国外vps/推荐.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "编程/git/rebase.md"
+            "file": "编程/国外vps/推荐.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "编程/git/rebase.md"
+            "file": "编程/国外vps/推荐.md"
           }
         }
       }
@@ -412,8 +412,10 @@
   },
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
-    "日记/2024-06-11.md",
+    "编程/git.md",
+    "日记/2024-06-04.md",
     "编程/git/rebase.md",
+    "日记/2024-06-11.md",
     "编程/git/未命名",
     "编程/git/定时功能的实现.md",
     "编程/git/撤销提交.md",
@@ -431,7 +433,6 @@
     "日记/账单.loom",
     "编程/git/一些同步的操作.md",
     "编程/git/git使用.md",
-    "日记/2024-06-04.md",
     "01看板",
     "编程/termux/常用操作.md",
     "ob技能/插件/templater/未命名",
@@ -445,7 +446,6 @@
     "日记/2024-06-10.md.bak",
     "().md",
     "编程/termux/入门.md",
-    "编程/termux/远程控制.md",
     "ob技能/插件",
     "sync_log.txt",
     "那就好.canvas"
