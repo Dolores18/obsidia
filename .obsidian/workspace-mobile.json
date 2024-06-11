@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/国外vps/推荐.md",
+                "file": "编程/git/定时功能的实现.md",
                 "mode": "preview",
                 "source": true
               }
@@ -333,7 +333,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "编程/国外vps/推荐.md",
+            "file": "编程/git/定时功能的实现.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "编程/国外vps/推荐.md",
+            "file": "编程/git/定时功能的实现.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -362,7 +362,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "编程/国外vps/推荐.md"
+            "file": "编程/git/定时功能的实现.md"
           }
         }
       },
@@ -388,7 +388,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "编程/国外vps/推荐.md"
+            "file": "编程/git/定时功能的实现.md"
           }
         }
       }
@@ -413,16 +413,19 @@
   "active": "9a281be1ddb3fcf5",
   "lastOpenFiles": [
     "日记/2024-06-11.md",
-    "01看板/今日笔记.md",
     "编程/git/定时功能的实现.md",
+    "日记/2024-06-10.md",
+    "01看板/今日笔记.md",
+    "编程/git/撤销提交正式版.md",
+    "编程/git/git使用.md",
+    "编程/git/撤销提交.md",
+    "编程/国外vps/iPV4 or ipv6.md",
     "编程/国外vps/推荐.md",
     "编程/git.md",
     "日记/2024-06-04.md",
     "编程/git/rebase.md",
     "编程/git/未命名",
-    "编程/git/撤销提交.md",
     "日记/2024-06-09.md",
-    "日记/2024-06-10.md",
     "ob技能/同步.md",
     "ob技能/插件/检测文件系统变化.md",
     "ob技能/插件/templater/教程.md",
@@ -433,7 +436,6 @@
     "node_modules/未命名.md",
     "日记/账单.loom",
     "编程/git/一些同步的操作.md",
-    "编程/git/git使用.md",
     "01看板",
     "编程/termux/常用操作.md",
     "ob技能/插件/templater/未命名",
@@ -443,9 +445,7 @@
     "ob技能/templater",
     "ob技能/未命名.md",
     "编程/git/git原理.md",
-    "books/01书架.md",
     "日记/2024-06-10.md.bak",
-    "().md",
     "ob技能/插件",
     "sync_log.txt",
     "那就好.canvas"
