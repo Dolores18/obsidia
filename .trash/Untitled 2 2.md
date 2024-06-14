@@ -1,5 +1,0 @@
-
----
-title: "**My Title**"
-subtitle: "**My subtitle**"
----
