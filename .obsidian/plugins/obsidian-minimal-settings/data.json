@@ -8,7 +8,11 @@
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
+<<<<<<< HEAD
   "textNormal": 16,
+=======
+  "textNormal": 19,
+>>>>>>> cfc9abb (Windows Sync 周一 2024/06/17)
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",

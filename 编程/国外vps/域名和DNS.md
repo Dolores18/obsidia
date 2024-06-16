@@ -1,12 +1,15 @@
 [namecheap ](https://www.namecheap.com/)    很便宜
 
 [ spaceship   ](        https://www.spaceship.com/  )
+
+
 #  已购买
-##   1.[namesilo](https://www.namesilo.com/account_domains.php)
+  
+1.[namesilo](https://www.namesilo.com/account_domains.php)
 
 
 
-
+ 2 . [spaceship](https://www.spaceship.com/zh/application/advanced-dns-application/manage/190795.xyz/)
 
 
 

@@ -1,5 +1,7 @@
 [中文文档](https://docshome.gitbook.io/nginx-docs/readme/chu-xue-zhe-zhi-nan)
 
+
+https://linux.do/t/topic/49778?u=mika24
 # 把监听端口改掉
 
 sed -i 's/listen 80;/listen 8080;/g' /etc/nginx/conf.d/default.conf
