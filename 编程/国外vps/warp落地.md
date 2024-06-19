@@ -17,3 +17,7 @@ https://github.com/Misaka-blog
 
 cloudflare 优选ip
 网站  https://345673.xyz/
+
+
+转换成nekobox链接
+https://github.com/juerson/wireguard_converted_nekoray
