@@ -5,7 +5,7 @@
       "name": "Look UP Movie",
       "type": "Macro",
       "command": true,
-      "macroId": "9e0af3df-d45a-4c84-91cc-7773ce538c8c"
+      "macroId": "849d5f01-27d6-417a-b2c0-3b0737533f31"
     }
   ],
   "macros": [
@@ -58,6 +58,12 @@
           }
         }
       ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Look UP Movie",
+      "id": "849d5f01-27d6-417a-b2c0-3b0737533f31",
+      "commands": [],
       "runOnStartup": false
     }
   ],

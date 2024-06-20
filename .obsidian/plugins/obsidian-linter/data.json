@@ -64,7 +64,7 @@
       "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "最近修改",
-      "format": "dddd, Mo Do YYYY, h:mm:ss a"
+      "format": "dddd, Mo Do YYYY, h:mm a"
     },
     "yaml-title": {
       "enabled": false,
@@ -269,7 +269,9 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "Templates"
+    "Templates",
+    "日记",
+    "01看板"
   ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
