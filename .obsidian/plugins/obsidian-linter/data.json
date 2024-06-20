@@ -265,8 +265,8 @@
   "lintOnSave": false,
   "recordLintOnSaveLogs": false,
   "displayChanged": false,
-  "lintOnFileChange": true,
-  "displayLintOnFileChangeNotice": true,
+  "lintOnFileChange": false,
+  "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "Templates",
