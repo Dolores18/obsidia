@@ -3,6 +3,8 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 aliases: [<% tp.file.title %>]
 weather: "<% tp.user.天氣_台北市() %>"
 tags: [ daily ]
+创建时间: 星期五, 6月 14日 2024, 8:15:01 早上
+最近修改: 星期四, 6月 20日 2024, 12:14:26 中午
 ---
 # <% tp.file.title %> 
 

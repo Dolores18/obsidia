@@ -15,6 +15,18 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "日记",
+      "template": ""
+    },
+    {
+      "folder": "随笔",
+      "template": ""
+    },
+    {
+      "folder": "电脑p",
+      "template": ""
+    },
+    {
       "folder": "",
       "template": ""
     },
