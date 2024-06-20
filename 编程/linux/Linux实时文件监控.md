@@ -1,0 +1,1 @@
+[  Linux系统实时数据同步inotify+rsync   ](https://zhuanlan.zhihu.com/p/618740623?utm_psn=1787195428103614464)
