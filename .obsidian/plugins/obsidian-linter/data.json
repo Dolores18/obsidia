@@ -60,10 +60,10 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
+      "date-created-key": "创建时间",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date modified",
+      "date-modified-key": "最近修改",
       "format": "dddd, Mo Do YYYY, h:mm a"
     },
     "yaml-title": {
@@ -265,8 +265,8 @@
   "lintOnSave": false,
   "recordLintOnSaveLogs": false,
   "displayChanged": false,
-  "lintOnFileChange": false,
-  "displayLintOnFileChangeNotice": false,
+  "lintOnFileChange": true,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "Templates",
