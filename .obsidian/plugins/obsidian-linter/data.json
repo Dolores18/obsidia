@@ -61,7 +61,7 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "创建时间",
-      "force-retention-of-create-value": true,
+      "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "最近修改",
       "format": "dddd, Mo Do YYYY, h:mm a"
