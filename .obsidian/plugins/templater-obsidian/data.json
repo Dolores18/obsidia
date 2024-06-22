@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "日记",
-      "template": ""
+      "template": "Templates/日记模板.md"
     },
     {
       "folder": "随笔",
@@ -27,12 +27,12 @@
       "template": "Templates/全局笔记模板.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "编程",
+      "template": "Templates/全局笔记模板.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "Templates/所有笔记创建模板.md"
     }
   ],
   "syntax_highlighting": true,
