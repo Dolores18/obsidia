@@ -10,3 +10,14 @@ git config --global user.email
 
 
 ```
+
+
+```
+推送到github
+git init 
+git remote add origin git@github.com:Dolores18/img_hosting.git
+
+git push --set-upstream origin master
+
+```
+
