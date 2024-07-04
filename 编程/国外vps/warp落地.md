@@ -1,7 +1,11 @@
 相关网站
 [warp-script ](https://gitlab.com/Misaka-blog/warp-script/-/tree/main)
+```
+wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/warp.sh && bash warp.sh
+```
 
-
+教程：
+https://github.com/yonggekkk/warp-yg
 
 链式代理，用warp做落地
 手机上和nekoray其实是一样的，就是创建个链式代理，然后选择你的节点，第一个选你的入口，第二个选warp节点，保存就行了
