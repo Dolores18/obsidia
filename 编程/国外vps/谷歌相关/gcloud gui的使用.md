@@ -10,7 +10,7 @@ gcloud auth list   //授权列表
 gcloud config set account `ACCOUNT`  //切换用户
 
 
-gcloud auth application-default set-quota-project bubbly-domain-428107-k7   获得指定项目的applycation json, 可以利用api
+gcloud auth application-default set-quota-project mybot-428402 获得指定项目的applycation json, 可以利用api
 
 gcloud auth application-default login   重新获取凭证
 
