@@ -1,3 +1,15 @@
+0系统剪贴板
+
+```
+vim   ~/.vimrc
+set clipboard=unnamedplus
+
+vnoremap <C-c> "+y
+nnoremap <C-v> "+p
+
+```
+
+
 1.基本操作
 ```
 # 打开文件

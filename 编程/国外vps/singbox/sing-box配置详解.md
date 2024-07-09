@@ -7,3 +7,7 @@
 
 Rule Set 规则集
 type:是不是本地
+
+
+生成密码
+sing-box generate rand 16 --base64
