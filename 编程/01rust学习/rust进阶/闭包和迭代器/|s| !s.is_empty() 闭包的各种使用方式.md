@@ -1,4 +1,4 @@
-1. 在 `filter` 方法中使用：
+1. 在 `filter` 方法中用：
 
 ```rust
 let strings = vec!["", "hello", "", "world"];
