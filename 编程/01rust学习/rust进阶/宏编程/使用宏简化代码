@@ -1,0 +1,48 @@
+
+```rust
+use futures::executor::block_on;
+
+
+use std::task::{Context, Poll};
+
+// 模拟一个简单的流结构
+struct MockStream {
+    buffer: Vec<u8>,
+}
+
+impl MockStream {
+    fn new() -> Self {
+        MockStream { buffer: Vec::new() }
+    }
+
+    fn poll_tx_buffer(&mut self, _cx: &mut Context<'_>, size: usize) -> Poll<Vec<u8>> {
+        if self.buffer.len() < size {
+            self.buffer.resize(size, 0);
+        }
+        Poll::Ready(self.buffer.clone())
+    }
+}
+
+#[macro_export]
+macro_rules! get_tx_buffer_boxed {
+    ($s:expr, $size:expr) => {
+        ::futures::future::poll_fn(|cx| $s.poll_tx_buffer(cx, $size)).await
+    };
+}
+
+// 测试函数
+async fn test_get_tx_buffer() {
+    let mut stream = MockStream::new();
+
+    // 使用宏获取缓冲区
+    let buffer = get_tx_buffer_boxed!(&mut stream, 1024);
+
+    assert_eq!(buffer.len(), 1024);
+    println!("Successfully got a buffer of size: {}", buffer.len());
+}
+
+fn main() {
+    // 在同步环境中运行异步测试
+    block_on(test_get_tx_buffer());
+}
+```
