@@ -1,0 +1,32 @@
+use thiserror::Error;
+
+#[derive(Debug, Error)]
+enum MyError {
+    #[error("IO error: {0}")]
+    IoError(#[from] std::io::Error),  // 自动处理 IO 错误
+    #[error("Parse error: {0}")]
+    ParseError(#[from] std::num::ParseIntError),  // 自动处理解析错误
+    #[error("Other error: {0}")]
+    OtherError(String),
+}
+
+type MyResult<T> = Result<T, MyError>;
+
+fn read_file() -> MyResult<String> {
+    let mut file = std::fs::File::open("test.txt")?;
+    let mut contents = String::new();
+    file.read_to_string(&mut contents)?;
+    Ok(contents)
+}
+
+fn parse_number(s: &str) -> MyResult<i32> {
+    let num: i32 = s.trim().parse()?;
+    Ok(num)
+}
+
+fn main() -> MyResult<()> {
+    let file_content = read_file()?;
+    let number = parse_number(&file_content)?;
+    println!("Parsed number: {}", number);
+    Ok(())
+}
